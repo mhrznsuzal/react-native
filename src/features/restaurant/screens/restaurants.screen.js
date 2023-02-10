@@ -1,8 +1,8 @@
 import { StyleSheet, Text, View,StatusBar,SafeAreaView } from 'react-native';
-import Mcard from 
-console.log(StatusBar.currentHeight);
 
-export default function App() {
+// console.log(StatusBar.currentHeight);
+
+export const RestaurantsScreen=                                                                                                                                                                                                                                                                                                                                () {
   return (
     <SafeAreaView style={styles.container}>
       <Search />
